@@ -4,9 +4,9 @@
 
 # Head info
 head:
-    favicon: "/img/favicon.png"
-    high_res_favicon: "/img/favicon.png"
-    apple_touch_icon: "/img/favicon.png"
+    favicon: "/img/avatar.jpg"
+    high_res_favicon: "/img/avatar.jpg"
+    apple_touch_icon: "/img/avatar.jpg"
     keywords:
     site_verification:
         google:
@@ -72,7 +72,7 @@ background:
 img:
     logo: "/img/avatar.jpg"
     avatar: "/img/avatar.jpg"
-    daily_pic: "/img/mine.jpeg"
+    daily_pic: "/img/mine.jpg"
     sidebar_header: "/img/sidebar_header.jpg"
     random_thumbnail: "/img/random/material-"
     footer_image:
@@ -196,7 +196,7 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-            link: "#"
+            link: "ioopsd.cn@gmial.com"
             icon: email
     homepage:
         use: true
