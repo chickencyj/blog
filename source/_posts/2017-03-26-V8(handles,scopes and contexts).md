@@ -2,7 +2,7 @@
 layout: post
 title: v8的handles,scopes和contexts
 date: 2017-3-26
-categories: blog
+categories: [node, v8]
 tags: [V8]
 description: handles,scopes和contexts
 ---

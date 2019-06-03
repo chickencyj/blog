@@ -2,7 +2,7 @@
 layout: post
 title: module
 date: 2017-7-24
-categories: blog
+categories: [node, commonjs]
 tags: [node]
 description: nodejs module
 ---

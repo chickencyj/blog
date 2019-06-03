@@ -2,7 +2,7 @@
 layout: post
 title: Console DNS and Error
 date: 2017-7-24
-categories: blog
+categories: node
 tags: [node]
 description: nodejs Console DNS and Error
 ---

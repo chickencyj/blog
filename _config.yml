@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ioopsd的博客
-subtitle: 游我所爱，任我风云
+title: IoopsdのBlog
+subtitle: But why, some say, the moon?
 description: 小小前端
 email: ioopsd.cn@gmail.com
-keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,vue,node,nodejs,用户体验"
+keywords: 
+- 前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,vue,node,nodejs,用户体验
 author: Ioopsd
 language: zh-CN
 timezone:
@@ -74,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material
+theme: melody
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
