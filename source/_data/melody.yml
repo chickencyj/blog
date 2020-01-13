@@ -128,7 +128,7 @@ cdn:
 # ---------------
 avatar: /img/avatar.jpg
 
-top_img: /img/bg.jpeg # false or url of img
+top_img: /img/bg.jpg # false or url of img
 
 post_meta:
   date_type: created # created or updated
