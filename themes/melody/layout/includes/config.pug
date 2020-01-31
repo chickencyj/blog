@@ -26,6 +26,8 @@
       }
     })
   }
+<!-- Global site tag (gtag.js) - Google Analytics -->
+script(async src="https://www.googletagmanager.com/gtag/js?id=UA-117915551-1").
 script.
   var GLOBAL_CONFIG = { 
     root: '!{config.root}',
@@ -36,4 +38,8 @@ script.
       error: '!{_p("copy.error")}',
       noSupport: '!{_p("copy.noSupport")}'
     }
-  } 
+  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-117915551-1');
